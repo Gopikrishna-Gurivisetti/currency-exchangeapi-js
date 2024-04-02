@@ -1,6 +1,6 @@
 {
   "name": "currency-exchangeapi-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Javascript currency exchange API key providing",
   "main": "index.js",
   "type": "module",
