@@ -1,6 +1,6 @@
 {
   "name": "currency-exchangeapi-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Javascript currency exchange API key providing",
   "main": "index.js",
   "type": "module",
@@ -20,7 +20,7 @@
     "url": "git+https://github.com/Gopikrishna-Gurivisetti/currency-exchangeapi-js.git"
   },
   "author": "Gopikrishna Gurivisetti",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Gopikrishna-Gurivisetti/currency-exchangeapi-js/issues"
   },
